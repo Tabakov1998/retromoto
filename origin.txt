@@ -1,0 +1,708 @@
+Uri: http://scootee.com.ua/
+File Name: c:\Downloaded Web Sites\scootee.com.ua\index.html
+Content Type: text/html
+
+Uri: http://scootee.com.ua/img/scooter/bgindex.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\bgindex.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/fivepoezdka.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\fivepoezdka.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/birthday.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\birthday.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/bg_about_us.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\bg_about_us.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/favicon.ico
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://scootee.com.ua/fancybox/source/jquery.fancybox.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/style/style.css?7
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\style.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/js/modernizr.custom.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/img/scooter/logo_white.png
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\logo_white.png
+Content Type: image/png
+
+Uri: http://scootee.com.ua/prices.php
+File Name: c:\Downloaded Web Sites\scootee.com.ua\prices.html
+Content Type: text/html
+
+Uri: http://scootee.com.ua/gallery.php
+File Name: c:\Downloaded Web Sites\scootee.com.ua\gallery.html
+Content Type: text/html
+
+Uri: http://scootee.com.ua/otzivi.php
+File Name: c:\Downloaded Web Sites\scootee.com.ua\otzivi.html
+Content Type: text/html
+
+Uri: http://scootee.com.ua/contacts.php
+File Name: c:\Downloaded Web Sites\scootee.com.ua\contacts.html
+Content Type: text/html
+
+Uri: http://scootee.com.ua/img/scooter/clean_scooter.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\clean_scooter.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/one_circle.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\one_circle.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/one_circle_little.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\one_circle_little.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/two_circle.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\two_circle.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/two_circle_little.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\two_circle_little.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/three_circle.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\three_circle.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/three_circle_little.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\three_circle_little.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/shlem.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\shlem.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/tehpassport.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\tehpassport.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/tros.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\tros.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/aptechka.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\aptechka.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/shlem2.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\shlem2.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/18plus.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\18plus.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/scooter.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\scooter.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/noalco.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\noalco.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/passport.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\passport.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/document.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\document.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/manager.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\manager.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/863FDA6E-2818-4D58-ABA7-9547EC819855.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\863FDA6E-2818-4D58-ABA7-9547EC819855.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/9.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\9.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/8.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\8.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/7.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\7.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/6.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\6.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/5.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\5.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/4.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\4.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/3.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\3.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/2.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\2.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/1.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\1.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/js/jquery-3.1.1.min.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/js/plugins.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/js/mo.min.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\mo.min.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/js/common.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\common.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/js/mo.effect2.init.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\mo.effect2.init.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/fancybox/source/jquery.fancybox.pack.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/js/my.js
+File Name: c:\Downloaded Web Sites\scootee.com.ua\js\my.js
+Content Type: application/javascript
+
+Uri: http://scootee.com.ua/fancybox/source/fancybox_sprite.png
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://scootee.com.ua/fancybox/source/fancybox_loading.gif
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://scootee.com.ua/fancybox/source/blank.gif
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\blank.gif
+Content Type: image/gif
+
+Uri: http://scootee.com.ua/fancybox/source/fancybox_overlay.png
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://scootee.com.ua/fancybox/source/fancybox_sprite@2x.png
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://scootee.com.ua/fancybox/source/fancybox_loading@2x.gif
+File Name: c:\Downloaded Web Sites\scootee.com.ua\fancybox\source\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: http://scootee.com.ua/style/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/style/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/style/animate.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\animate.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/style/photoswipe.min.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\photoswipe.min.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/style/geometria/geometria.css
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\geometria.css
+Content Type: text/css
+
+Uri: http://scootee.com.ua/img/scooter/giorno.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\giorno.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/vino.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\vino.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/joker.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\joker.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/scooterbg2.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\scooterbg2.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/prices.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\prices.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/giorno_price.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\giorno_price.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/vino_price.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\vino_price.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/joker_price2.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\joker_price2.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/gopro.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\gopro.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/scooterbg1.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\scooterbg1.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/410A94F5-166F-456E-8038-8F409AA6AEC5.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\410A94F5-166F-456E-8038-8F409AA6AEC5.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/118802659122123340015.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\118802659122123340015.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/2545815660197209558.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\2545815660197209558.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/3660169955607745903.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\3660169955607745903.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/4906798634337913204.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\4906798634337913204.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/5833290352430456260.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\5833290352430456260.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/6644062918847540691.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\6644062918847540691.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/714951876711556704817.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\714951876711556704817.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/8409433008652459042.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\8409433008652459042.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/97385069801405322001.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\97385069801405322001.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/104579330552059468336.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\104579330552059468336.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/11389951657958528100.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\11389951657958528100.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/12519805215915265680.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\12519805215915265680.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/1321159944961404508288.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\1321159944961404508288.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/1410910946082087665898.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\1410910946082087665898.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/scooter/otzivbg.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\otzivbg.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/493F6593-4245-4AB4-9243-1035BDD547CA.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\493F6593-4245-4AB4-9243-1035BDD547CA.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/0D8A5F9A-79B8-4508-915A-DD21E63A991D.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\0D8A5F9A-79B8-4508-915A-DD21E63A991D.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/3A03E6AC-6392-41F0-9652-32F5BEA03C82.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\3A03E6AC-6392-41F0-9652-32F5BEA03C82.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/E8E92D96-09C2-4797-A757-19504C0FEFC4.jpeg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\E8E92D96-09C2-4797-A757-19504C0FEFC4.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv1.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv1.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv2.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv2.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv3.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv3.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv4.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv4.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv5.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv5.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/otziv6.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\otziv6.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/12059447141004341485.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\12059447141004341485.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/21915050761733494549.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\21915050761733494549.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/33624416861631642513.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\33624416861631642513.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/166741359071644245933.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\166741359071644245933.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/53401242691592562494.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\53401242691592562494.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/10.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\10.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/7986205945233352587.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\7986205945233352587.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/812648080031389207282.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\812648080031389207282.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/9581364699487661533.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\9581364699487661533.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/11.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\11.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/12.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\12.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/13.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\13.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/14.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\14.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/15.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\15.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/upload/16.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\upload\16.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/img/otzivi/nophoto.png
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\otzivi\nophoto.png
+Content Type: image/png
+
+Uri: http://scootee.com.ua/img/scooter/pricebg.jpg
+File Name: c:\Downloaded Web Sites\scootee.com.ua\img\scooter\pricebg.jpg
+Content Type: image/jpeg
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Thin.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Thin.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Thin.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Thin.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Thin.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Thin-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-MediumItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-MediumItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-MediumItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-MediumItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-MediumItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-MediumItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Italic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Italic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Italic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Italic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Italic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Italic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Heavy.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Heavy.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Heavy.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Heavy.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Heavy.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Heavy-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBoldItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBoldItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBoldItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBoldItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBoldItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBoldItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Medium.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Medium.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Medium.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Medium.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Medium.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Medium-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-BoldItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-BoldItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-BoldItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-BoldItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-BoldItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-BoldItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-LightItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-LightItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-LightItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-LightItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-LightItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-LightItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-HeavyItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-HeavyItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-HeavyItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-HeavyItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-HeavyItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-HeavyItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-HeavyItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-HeavyItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Bold.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Bold.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Bold.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Bold.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Bold.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Bold-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBold.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBold.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBold.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBold.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraBold.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraBold-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ThinItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ThinItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ThinItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ThinItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ThinItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ThinItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ThinItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ThinItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLightItalic.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLightItalic.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLightItalic.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLightItalic.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLightItalic.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLightItalic-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Light.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Light.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Light.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Light.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-Light.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-Light-1.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLight.eot
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLight.eot?
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLight.woff
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLight.txt
+Content Type: text/plain
+
+Uri: http://scootee.com.ua/style/geometria/Geometria-ExtraLight.ttf
+File Name: c:\Downloaded Web Sites\scootee.com.ua\style\geometria\Geometria-ExtraLight-1.txt
+Content Type: text/plain
+
